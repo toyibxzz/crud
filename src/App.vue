@@ -11,8 +11,14 @@
         Mahasiswa
       </RouterLink>
 
-      <RouterLink to="/tentang" class="btn btn-warning">
+      <RouterLink to="/tentang" class="btn btn-warning me-2">
         Tentang
+      </RouterLink>
+
+      <RouterLink to="/login" class="btn btn-secondary">
+
+        Login
+
       </RouterLink>
 
     </nav>
